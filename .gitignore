@@ -168,3 +168,8 @@ cython_debug/
 
 #custom
 **platzi**
+
+#SQLite
+*.sqlite3
+*.sqlite3-journal
+*.db
